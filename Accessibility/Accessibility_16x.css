@@ -1,0 +1,18 @@
+@charset "utf-8";
+	.XMLID_5_
+{
+	background-image : url(XMLID_5_.png);
+	background-repeat : no-repeat;
+}
+.XMLID_1_
+{
+	background-image : url(XMLID_1_.png);
+	background-repeat : no-repeat;
+	opacity : 0;
+	filter: alpha(opacity=0) progid:DXImageTransform.Microsoft.Alpha(opacity=0) ;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+}
